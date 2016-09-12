@@ -18,6 +18,7 @@ object WordCount {
   wc.saveAsTextFile(outputpath)
   println("#######################################################################")
   println("Word Count COMPLETED SUCCESSFULLY")
+  println("GitHub uploading COMPLETED SUCCESSFULLY")
   println("#######################################################################")
   
   }
